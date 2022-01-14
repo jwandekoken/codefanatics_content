@@ -3,7 +3,7 @@ slug: a-falacia-da-madeira-verde
 title: A Falacia da Madeira Verde na Engenharia de Software
 authors: [jwandekoken]
 tags: [engenharia de software, traduções]
-image: ./interview_meme.jpg
+image: https://images.unsplash.com/photo-1567080586917-e6ab6aa0df85?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80
 ---
 
 Há uma falácia da madeira verde na Engenharia de Software...
