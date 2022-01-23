@@ -1,7 +1,12 @@
 ---
 slug: ponto-de-exclamacao-typescript
 title: Ponto de Exclamação no TypeScript (Non-Null Assertion Operator)
-authors: [jwandekoken]
+authors:
+  - name: Volodymyr Hudyma
+    title: Software Developer
+    url: https://vhudyma-blog.eu
+    image_url: https://media-exp1.licdn.com/dms/image/C4E03AQEI88mHDfg5xg/profile-displayphoto-shrink_800_800/0/1605368722734?e=1648684800&v=beta&t=NxhJiqQN1XLzOvd3AWUPYayX9nr8rYN_AVm1ZTOyC1c
+  - jwandekoken
 tags: [TypeScript]
 image: ./2022-01-23-ponto-de-exclamacao-typescript.jpg
 ---

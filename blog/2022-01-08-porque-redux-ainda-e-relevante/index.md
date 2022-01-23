@@ -1,7 +1,12 @@
 ---
 slug: porque-redux-ainda-e-mais-relevante-do-que-nunca
 title: Porque Redux ainda é mais Relevante do que Nunca
-authors: [jwandekoken]
+authors:
+  - name: Joel Marcey
+    title: Engineering Manager
+    url: https://medium.com/@jasonleehodges/about
+    image_url: https://miro.medium.com/fit/c/680/680/1*RKhApH9Shr8TU1ogsMxW3Q.jpeg
+  - jwandekoken
 tags: [react, redux, traduções]
 image: https://miro.medium.com/max/700/0*GAG4mQOmR60q9RzS
 ---
@@ -9,6 +14,8 @@ image: https://miro.medium.com/max/700/0*GAG4mQOmR60q9RzS
 Será que de fato o Redux está morto?
 
 <!--truncate-->
+
+Artigo original escrito por [Jason Lee Hodges](https://medium.com/@jasonleehodges). Você pode ler o artigo em seu formato original [aqui](https://betterprogramming.pub/why-redux-is-more-relevant-than-ever-today-6654f38df539).
 
 Recentemente eu encontrei diversas opiniões sugerindo que o ecossistema do React está recomendando que não mais seja utilizado o Redux em novos projetos, em favor de um movimento no sentido de um "React mais moderno", usando a Context API.
 
@@ -44,6 +51,4 @@ Ainda no ponto da simplicidade — A razão principal em que a Context API é ti
 
 Redux, em minha opinião, não apenas não está morto — mas é mais relevante do que nunca. Com a adição do Redux Toolkit, as capacidades de gerenciamento de estado do Redux se tornaram melhores do que nunca. Novas features introduzidas no Redux Toolkit, como a [RTK Query](https://redux-toolkit.js.org/rtk-query/overview) parecem bem incríveis (não testei ainda, mas estou doido para fazê-lo). As pessoas contribuindo com o Redux Toolkit fizeram um trabalho tão incrível que minha organização prestará atenção na lib pelo próximo futuro, pois certamente os vemos como pioneiros.
 
-Artigo original escrito por [Jason Lee Hodges](https://medium.com/@jasonleehodges). Você pode ler o artigo em seu formato original [aqui](https://betterprogramming.pub/why-redux-is-more-relevant-than-ever-today-6654f38df539).
-
-Encontrou algum erro no artigo? Faça um fork e mande um PR [aqui](https://github.com/jwandekoken/codefanatics/tree/main/blog/2022-01-08-porque-redux-ainda-e-relevante)! 😃
+Encontrou algum erro no artigo? Faça um fork e mande um PR [aqui](https://github.com/jwandekoken/codefanatics-content/blob/main/blog/2022-01-08-porque-redux-ainda-e-relevante/index.md)! 😃
