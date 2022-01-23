@@ -175,4 +175,4 @@ Desenvolvedores devem ter cuidado extremo ao utilizá-lo, pois o mal uso irá re
 
 No entanto, em alguns casos especiais, ele pode fazer seu código ficar mais sucinto, e te permite pular checagens extras.
 
-Encontrou algum erro no artigo? [Faça um PR aqui]()!
+Encontrou algum erro no artigo? [Faça um PR aqui](https://github.com/jwandekoken/codefanatics-content/blob/main/blog/2022-01-23-ponto-de-exclamacao-typescript/index.md)!
